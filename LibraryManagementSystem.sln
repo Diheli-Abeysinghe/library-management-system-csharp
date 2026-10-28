@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryManagementSystem", "src\LibraryManagementSystem\CB015673 - SD Assignment 1.csproj", "{D2F7C62E-F6B9-4B98-A9A3-A61A40B4D7FA}"
+EndProject
+Project("{3AC096D0-A1C2-E12C-1390-A8335801FDAB}") = "LibraryManagementSystem.Tests", "tests\LibraryManagementSystem.Tests\CB015673_SD_Assignment1_Tests.csproj", "{F509F192-32EA-4614-8BFA-82DC76753DD6}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Any CPU = Debug|Any CPU
+        Release|Any CPU = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {D2F7C62E-F6B9-4B98-A9A3-A61A40B4D7FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {D2F7C62E-F6B9-4B98-A9A3-A61A40B4D7FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {D2F7C62E-F6B9-4B98-A9A3-A61A40B4D7FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {D2F7C62E-F6B9-4B98-A9A3-A61A40B4D7FA}.Release|Any CPU.Build.0 = Release|Any CPU
+        {F509F192-32EA-4614-8BFA-82DC76753DD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {F509F192-32EA-4614-8BFA-82DC76753DD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {F509F192-32EA-4614-8BFA-82DC76753DD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {F509F192-32EA-4614-8BFA-82DC76753DD6}.Release|Any CPU.Build.0 = Release|Any CPU
+    EndGlobalSection
+EndGlobal
